@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SharpDevelop Projects\tugaspertemuan3\tugaspertemuan3\obj\Debug\tugaspertemuan3.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\tugaspertemuan3\tugaspertemuan3\obj\Debug\tugaspertemuan3.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\tugaspertemuan3\tugaspertemuan3\obj\Debug\tugaspertemuan3.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\tugaspertemuan3\tugaspertemuan3\bin\Debug\tugaspertemuan3.exe
+C:\Users\User\Documents\SharpDevelop Projects\tugaspertemuan3\tugaspertemuan3\bin\Debug\tugaspertemuan3.pdb
+C:\Users\User\Documents\SharpDevelop Projects\tugaspertemuan3\tugaspertemuan3\obj\Debug\tugaspertemuan3.exe
+C:\Users\User\Documents\SharpDevelop Projects\tugaspertemuan3\tugaspertemuan3\obj\Debug\tugaspertemuan3.pdb
